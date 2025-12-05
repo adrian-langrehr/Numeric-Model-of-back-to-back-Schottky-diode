@@ -65,3 +65,12 @@ Parameters:
 - Temperature: $ T = 300\,\mathrm{K} $ 
 - Non-ideal case adds an ideality factor $ n = 1.2 $
 
+## Fit Experimetal Data
+The model can be used to fit experimental data and extract the relevant contact parameter.
+
+<img src="Figures/Example_fit.png" style="width:70%;">
+
+Parameters:  
+- Barrier height: $ \Phi_{B0,1} = 0.341\pm0.002\,\mathrm{eV}$, $\Phi_{B0,2} = 0.355\pm0.002\,\mathrm{eV} $ 
+- Series resistance: $ R = 20\pm8\,\mathrm{M\Omega} $ 
+- Ideality factor: $ n_1 = 1.277\pm0.009 $, $ n_2 = 1.282\pm0.007 $
